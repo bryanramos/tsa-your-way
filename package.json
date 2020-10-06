@@ -2,6 +2,7 @@
   "name": "tsa-your-way",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://texastsa-tsayourway-catalog-prod.azurewebsites.net",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -10,9 +11,13 @@
     "@types/node": "^12.12.62",
     "@types/react": "^16.9.51",
     "@types/react-dom": "^16.9.8",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/styled-components": "^5.1.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
+    "styled-components": "^5.2.0",
     "typescript": "^3.7.5"
   },
   "scripts": {
