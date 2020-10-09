@@ -2,6 +2,7 @@
   "name": "tsa-your-way",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.texastsa.org/tsa-your-way/",
   "proxy": "http://texastsa-tsayourway-catalog-prod.azurewebsites.net",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

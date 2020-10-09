@@ -22,7 +22,7 @@ const SiteContent = styled.div`
 
 export default function App() {
     return (
-        <Router>
+        <Router basename="/tsa-your-way">
             <Main id="tsa-your-way">
                 <SiteAlert />
                 <Header />

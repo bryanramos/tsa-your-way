@@ -15,6 +15,11 @@ const SiteHeader = styled.header`
     a.current {
         color: var(--tsa-brand-blue);
     }
+    @media screen and (max-width: 600px) {
+        img {
+            height: 60px;
+        }
+    }
 `;
 
 const Nav = styled.nav`
